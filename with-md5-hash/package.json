@@ -1,0 +1,16 @@
+{
+  "name": "with-md5-hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.9.1",
+    "webpack-md5-hash": "0.0.6"
+  }
+}
